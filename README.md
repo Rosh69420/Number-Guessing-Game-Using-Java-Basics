@@ -10,7 +10,7 @@
 - Download this repo or clone it.
 - Open it any Java IDE such as Intellij,VS code etc.
 - To open from terminal goto your terminal.
-- Then just write cd <path to your file folder> eg c:\Users\ABC\JavaProjects\Calculator
+- Then just write cd path to your folder eg cd c:\Users\ABC\JavaProjects\Calculator
 - Then compile it using javac <file name> so javac Main.java.
 - Now run using java filename(dont add .java) so java Main
 - Run it from there.
